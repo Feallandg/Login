@@ -1,7 +1,7 @@
 <h1 align="center"> Tela de Login </h1>
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 <br>
-<p>Link: https://feallandg.github.io/Portfolio/</p>
+<p>Link: https://feallandg.github.io/Login/</p>
 <p>✨Este e um projeto simples com a utilização do css e html. </p>
 <div class="icon">
 <p>✨Tecnologias utilizadas para esse projeto:</p>
